@@ -7,9 +7,12 @@
 *indhold:*
 - /ressources: dokumentation af wiring og skitser til animation
 - /kode:
-  - **master.ino:** Master ESP script
+  - **Arduino_harness** Bare minimum structure til at prototype animationer på arduino UNO (uploader hurtigere end ESP)
   - **DriverV3.ino** Driver ESP script
-  - **
+  - **Full_Receive** Driver skelet (kun parsing og serial, ingen animationer)
+  - **master_wiring_check** Til at debugge master ESP hardware (viser knap værdier)
+  - **masterV1.ino:** Master ESP script
+  - **Simple_receive** til at debugge driver ESP hardware (viser indkommen data fra master)
 
 
 <img width="1239" height="822" alt="Wiring" src="https://github.com/user-attachments/assets/edf47a0e-64ca-4351-8b61-e17bbd65ae0b" />
