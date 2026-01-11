@@ -14,6 +14,7 @@
   - **masterV1.ino:** Master ESP script
   - **Simple_receive** til at debugge driver ESP hardware (viser indkommen data fra master)
 
+*Syntax genereret med GPT5.2*
 
 <img width="1239" height="822" alt="Wiring" src="https://github.com/user-attachments/assets/edf47a0e-64ca-4351-8b61-e17bbd65ae0b" />
 <img width="1425" height="1209" alt="wiring_schem" src="https://github.com/user-attachments/assets/54de69d9-e9a9-4d41-8249-6025ed35c9e6" />
