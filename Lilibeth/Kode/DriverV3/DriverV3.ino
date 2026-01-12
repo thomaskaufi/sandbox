@@ -54,9 +54,9 @@ constexpr uint8_t stage3_fadePerFrame = 30;  // 0..255
 
 // ----------------- Stage 4 params (breathing) -----------------
 constexpr CRGB stage4_color = CRGB(45, 0, 90);
-constexpr uint16_t stage4_pulseSpeedMs = 2000;
+constexpr uint16_t stage4_pulseSpeedMs = 1000;
 constexpr uint8_t stage4_minBrightnessPct = 15;  // 0..100
-constexpr uint8_t stage4_maxBrightnessPct = 30;  // 0..100
+constexpr uint8_t stage4_maxBrightnessPct = 60;  // 0..100
 
 // ----------------- PANIC PARAMS -----------------
 
