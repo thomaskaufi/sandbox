@@ -9,6 +9,7 @@
 - /kode:
   - **Arduino_harness** Bare minimum structure til at prototype animationer på arduino UNO (uploader hurtigere end ESP)
   - **DriverV3.ino** Driver ESP script
+  - **DriverV4.ino** Driver ESP script UPDATED Animations June 2026
   - **Full_Receive** Driver skelet (kun parsing og serial, ingen animationer)
   - **master_wiring_check** Til at debugge master ESP hardware (viser knap værdier)
   - **masterV1.ino:** Master ESP script
